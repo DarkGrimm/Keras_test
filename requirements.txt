@@ -6,5 +6,5 @@ numpy
 h5py
 pillow
 tensorflow
-pytorch
+
 
